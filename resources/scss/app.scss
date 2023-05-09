@@ -40,3 +40,21 @@ header {
         height: 80px;
     }
 }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    .footer-top {
+        height: 150px;
+        background-color: #0282f9;
+    }
+    .footer-main {
+        height: 500px;
+        background-image: url('../img/footer-bg.jpg');
+        background-size: cover;
+    }
+    .footer-bottom {
+        height: 100px;
+        background-color: #303030;
+    }
+}
