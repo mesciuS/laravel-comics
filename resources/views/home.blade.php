@@ -1,5 +1,5 @@
 @extends('layouts/main')
-@section('prova')
+@section('content')
     <div class="container">
         prova
     </div>
